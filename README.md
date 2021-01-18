@@ -1,11 +1,11 @@
 ### BC_MS_AVG_Cancer_Sample_Analysis
-This is an Intensity based analysis for Mass Spectometry Average Cancer Sample having M/Z Ratio and Absolute Intensity as their primary attributes.
+This is an Intensity based analysis for Mass Spectometry Average Cancer Sample having m/z Ratio and Absolute Intensity as their primary attributes.
 
 The Analysis includes the following parts:
 1. Fetching any random Peak.
 2. Creating a Closed Interval surrounding the Peak
-3. Accessing all the M/Z Ratios within that particular range considering the lower range and upper range from the said closed interval.
-4. Getting the Maximum Absolute Density for the corresponding M/Z Ratios.
+3. Accessing all the m/z Ratios within that particular range considering the lower range and upper range from the said closed interval.
+4. Getting the Maximum Absolute Density for the corresponding m/z Ratios.
 5. Repeating the same for all the M/Z Ratio - Absolute Intensity Column pairs.
 6. Getting all the Max Value and creating a 2D where where each element is Max_Intensity, Corresponding M/Z Ratio
 7. Plotting M/Z Ratio with max_intensity values.
