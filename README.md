@@ -14,4 +14,4 @@ The Analysis includes the following parts:
 ### About the Data:
 The First two row of the data are its attributes. First row consists of 21 pairs of M/Z Ratio & corresponding Absolute Intensity value. The secodn row refersto a particular Disjoint Ordered Discontinuous BC Values. The reason of discontinuity is the fact that any inaapropiate datas were dropped beforehand and the data which was provided had only remaining BC values. The Data is not well rounded as the length of each column is different. So, first we had to fill in the blank spots with NaN and then proceed with analyzing the datset.
 
-###The Data Couldn't be attached due to some Copyright Issues
+### The Data Couldn't be attached due to some Copyright Issues
