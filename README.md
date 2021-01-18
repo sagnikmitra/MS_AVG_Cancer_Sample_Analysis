@@ -1,4 +1,4 @@
-### BC_MS_AVG_Cancer_Sample_Analysis
+### MS_AVG_Cancer_Sample_Analysis
 This is an Intensity based analysis for Mass Spectometry Average Cancer Sample having m/z Ratio and Absolute Intensity as their primary attributes.
 
 The Analysis includes the following parts:
